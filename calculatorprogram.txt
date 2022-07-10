@@ -2,13 +2,11 @@
 #include<conio.h>
 int main()
 {
-int a,b,c,d;
+int a,b,d;
 printf("enter the value of a");
 scanf(%d,&a);
 printf("enter the value of b");
 scanf(%d,&b);
-c=a+b;
-printf("the addition of two numbers is %d",c);
 d=a*b;
 printf("the multiplication of two numbers is %d",d)
 }
