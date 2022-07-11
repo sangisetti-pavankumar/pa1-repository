@@ -2,6 +2,7 @@
 #include<conio.h>
 int main()
 {
+<<<<<<< HEAD
 int a,b,c;
 printf("enter the value of a");
 scanf(%d,&a);
@@ -9,4 +10,8 @@ printf("enter the value of b");
 scanf(%d,&b);
 c=a+b;
 printf("the addition of two numbers is %d",c);
+=======
+int d=a*b;
+printf("the multiplication of two numbers is %d",d)
+>>>>>>> Bugfix
 }
